@@ -4,7 +4,7 @@ My name ist **Monika**
 
 Ich wohne in Köln.
 
-Sachen die ich gerne in meiner Freizeit mache:
+Sachen, die ich gerne in meiner Freizeit mache:
 
 - wandern
 - SUP
