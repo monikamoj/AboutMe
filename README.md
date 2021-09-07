@@ -1,9 +1,9 @@
 # Hi :wave: 
 # Willkommen auf meinem Github Profil.
 
-My name ist **Monika**
+Mein Name ist **Monika**
 
-Ich wohne in Köln. Die Stadt ist für die 5 Jahreszeit - Karneval bekannt.
+Ich wohne in Köln, einer Stadt, die fünfte Jahreszeit besonders feiert.
 
 ![alt text](https://media3.giphy.com/media/3o84TV4t81nwhqirh6/giphy.gif?cid=ecf05e47w4o4yjrztziuhpbp9iz8z29p4eeqvt93wgptnnla&rid=giphy.gif&ct=g)
 
