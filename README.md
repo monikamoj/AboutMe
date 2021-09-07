@@ -1,5 +1,5 @@
 # Hi :wave: 
-# Willkommen auf meinem Github Profil.
+# Willkommen auf meinem Github Profil
 
 Mein Name ist **Monika**
 
