@@ -13,4 +13,5 @@ Sachen, die ich gerne in meiner Freizeit mache:
 - SUP
 - im Garten arbeiten
 
+
 [Hier findest Du mein LinkedIn Profil](https://www.linkedin.com/in/monika-moj-26252018a/)
