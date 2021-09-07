@@ -1,5 +1,5 @@
 # AboutMe
-# Hi, :wave: willkommen auf meinem Github Profil.
+# Hi :wave: willkommen auf meinem Github Profil.
 My name ist **Monika**
 
 Ich wohne in Köln.
