@@ -1,4 +1,4 @@
-# Hi, willkommen auf meinem Github Profil.#
+# Hi, willkommen auf meinem Github Profil.
 My name ist **Monika**
 
 Ich wohne in Köln.
@@ -9,4 +9,4 @@ Sachen die ich gerne in meiner Freizeit mache:
 - SUP
 - im Garten arbeiten
 
-[Hier mein LinkedIn Profil] (https://www.linkedin.com/in/monika-moj-26252018a/)
+[Hier mein LinkedIn Profil](https://www.linkedin.com/in/monika-moj-26252018a/)
